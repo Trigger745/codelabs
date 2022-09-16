@@ -1,6 +1,13 @@
 " your mom"
 let something = 69
 let someone = false
-let   = true
-let null 
+true 
+null 
 undefined
+
+user = {
+    name: "yourmom",
+    password: 6969,
+    isInstructor: true,
+  }
+  
